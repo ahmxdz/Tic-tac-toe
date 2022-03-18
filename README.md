@@ -11,7 +11,7 @@ Made this mini project to showcase my understanding with JS DOM and button grabb
 
 ### App Screenshot:
 Main Game Design:
-<img src="/Users/ahmedali/Tic-tac-toe/tic-tac-toe-ahmed-personal/images/Screen Shot 2022-03-17 at 21.48.14.png">
+<img src="tic-tac-toe-ahmed-personal/images/Screen Shot 2022-03-17 at 21.48.14.png">
 
 ### Next Steps:
 <li> Add Winner and Loser Functionality instead of an Alert!</li>
